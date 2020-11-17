@@ -3,6 +3,9 @@ Neural Network &amp; Deep Learning
 
 Running on tf2
 
+
 Assignment 1:
+
 Part A: Classification Problem
+
 Part B: Regression Problem
