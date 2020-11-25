@@ -7,6 +7,7 @@ Notes:
 - conda activate your environment else the slurm job wouldn't get through (even if you have stated your environment in the .sh file) 
 
 
+&amp;
 
 Assignment 1:
 
