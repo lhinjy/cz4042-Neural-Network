@@ -7,7 +7,7 @@ Notes:
 - conda activate your environment else the slurm job wouldn't get through (even if you have stated your environment in the .sh file) 
 
 
-&amp;
+&nbsp;&nbsp;
 
 Assignment 1:
 
@@ -18,7 +18,7 @@ Part B: Regression Problem
 files/folder: Part A Code, Part B Code, A1_report
 
 
-
+&nbsp;
 
 Assignment 2:
 
