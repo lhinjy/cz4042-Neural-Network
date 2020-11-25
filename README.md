@@ -15,7 +15,7 @@ Part A: Classification Problem
 
 Part B: Regression Problem
 
-files/folder: Part A Code, Part B Code, A1_report
+files/folder: Part A Code, Part B Code, A1_report, assignment_1
 
 
 &nbsp;
@@ -26,4 +26,4 @@ Part A: Object Recognition
 
 Part B: Text Classification
 
-files/folder: Lab 2, A2_report
+files/folder: Lab 2, A2_report, assignment_2
