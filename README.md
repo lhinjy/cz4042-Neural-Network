@@ -29,6 +29,9 @@ Part B: Text Classification
 files/folder: Lab 2, A2_report, assignment_2
 
 &nbsp;
+
+
 Project:
 Gender Classification: Modification of previously published architectures
 - Modified AlexNet and [CNN by Gil Levi and Tal Hassner](https://github.com/GilLevi/AgeGenderDeepLearning)
+files/folder: architectures_modification, project_guidelines
