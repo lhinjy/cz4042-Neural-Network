@@ -30,5 +30,5 @@ files/folder: Lab 2, A2_report, assignment_2
 
 &nbsp;
 Project:
-Gender Classification: Modify some previously published architectures
+Gender Classification: Modification of previously published architectures
 - Modified AlexNet and [CNN by Gil Levi and Tal Hassner](https://github.com/GilLevi/AgeGenderDeepLearning)
