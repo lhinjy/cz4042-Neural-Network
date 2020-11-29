@@ -15,7 +15,6 @@ Part A: Classification Problem
 
 Part B: Regression Problem
 
-files/folder: Part A Code, Part B Code, A1_report, assignment_1
 
 
 &nbsp;
@@ -26,7 +25,6 @@ Part A: Object Recognition
 
 Part B: Text Classification
 
-files/folder: Lab 2, A2_report, assignment_2
 
 &nbsp;
 
@@ -37,4 +35,3 @@ Project:
 Gender Classification: Modification of previously published architectures
 - Modified AlexNet and [CNN by Gil Levi and Tal Hassner](https://github.com/GilLevi/AgeGenderDeepLearning)
 
-files/folder: architectures_modification, project_guidelines
